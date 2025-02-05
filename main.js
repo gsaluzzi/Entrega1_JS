@@ -1,13 +1,5 @@
 
-/*
--Variables
--Condicionales (if else o switch)
--Ciclos (for, while o do while)
--Funciones (tradicional, anónima o flecha)
--Arrays
--Métodos de arrays
--Entrada (prompt y/o confirm) y salida (alert o console) de datos
-*/
+// PRIMERA ENTREGA
 
 let tipo;
 let listaDeJugadoresSocios = [];
